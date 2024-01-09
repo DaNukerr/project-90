@@ -1,0 +1,28 @@
+h3{
+    text-align:center;
+    color:Turquoise;
+    font-size:50px;
+}
+  
+  button{
+    background-color:red;
+    border:px;
+    color:green;
+    padding:5px 20px;
+    font-size:20px;
+  }
+  player2_name_input {
+  width: 200px;
+  background-color: yellow;
+  margin-left: 20px;
+  }
+  #output{
+    background:lightblue;
+    border-radius:10px;
+    border-top:10px solid blue;
+    padding:10px;
+    float:float;
+    text-align:center;
+   
+  }
+ 
